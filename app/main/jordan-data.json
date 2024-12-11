@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1a",
+        "name": "Jordan 1",
+        "category": "Low Tops",
+        "image": "https://images.pexels.com/photos/18681226/pexels-photo-18681226/free-photo-of-red-shoes-on-yellow-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "2a",
+        "name": "Jordan 2",
+        "category": "High Tops",
+        "image": "https://images.pexels.com/photos/18946889/pexels-photo-18946889/free-photo-of-pair-of-nike-air-jordan-2-union-sneakers-on-the-mirror.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "3a",
+        "name": "Jordan 3",
+        "category": "Mid Tops",
+        "image": "https://images.pexels.com/photos/6050919/pexels-photo-6050919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "4a",
+        "name": "Jordan 4",
+        "category": "Mid Tops",
+        "image": "https://images.pexels.com/photos/9214286/pexels-photo-9214286.png"
+    },
+
+    {
+        "id": "5a",
+        "name": "Jordan 5",
+        "category": "Low Tops",
+        "image": "https://images.pexels.com/photos/6050920/pexels-photo-6050920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "6a",
+        "name": "Jordan 6",
+        "category": "High Tops",
+        "image": "https://images.pexels.com/photos/4495426/pexels-photo-4495426.jpeg"
+    }
+
+]
